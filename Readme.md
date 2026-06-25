@@ -54,7 +54,6 @@ Precision_Farming_Intelligence_Dashboard/
 ### 🔗 Quick Navigation
 - 📸 [Dashboard Screenshots](./Images)
 - 📂 [Raw Dataset](./Raw%20Data)
-- 📄 [Smart Farming Dataset CSV](./Raw%20Data/Smart_Farming_Crop_Yield_2024.csv)
 
 ---
 
